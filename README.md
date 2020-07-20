@@ -11,4 +11,3 @@ Skills: Bootstrap / VueJS / CakePHP / Laravel / .NET Core / C# / PHP / Docker
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MayMeow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/maymeow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TheMayMeow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://themaymeow.com)  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MayMeow&show_icons=true)
