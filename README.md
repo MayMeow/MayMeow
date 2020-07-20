@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Emma
 #### I am system administrator.
-Hi. I am system administrator from Slovakia. But I'm interested with programming.
+Hi. I am system administrator. But I'm interested with programming.
 
 Mostly I'm creating content with PHP, or C#. I started to experiment with PHP at high school and have some vacation from it at University where we using Delphi/Java but i returned to it when i finished school. My first framework was CakePHP 🎂 and i like using it. I also created few plugins for it.
 
