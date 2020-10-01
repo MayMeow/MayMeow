@@ -45,7 +45,10 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MayMeow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/maymeow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TheMayMeow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://themaymeow.com)  
+[<img src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white' alt='github'>](https://github.com/MayMeow)
+[<img src='https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white' alt='dev'>](https://dev.to/maymeow)
+[<img src='https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/TheMayMeow)
+[<img src='https://img.shields.io/badge/-hugo-FF4088?style=flat-square&logo=hugo&logoColor=white' alt='website'>](https://themaymeow.com)  
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MayMeow&theme=tokyonight&show_icons=true"></p>
 
