@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Emma
+![](/banner.jpg)
+
+### Hi there 👋, I'm MayMeow!
 #### I am system administrator.
 Hi. I am system administrator from Slovakia. But I'm interested with programming.
 
@@ -52,7 +54,7 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 [<img src='https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/TheMayMeow)
 [<img src='https://img.shields.io/badge/-hugo-FF4088?style=flat-square&logo=hugo&logoColor=white' alt='website'>](https://themaymeow.com)  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MayMeow&theme=tokyonight&show_icons=true"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=MayMeow&theme=tokyonight&show_icons=true"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayMeow&layout=compact"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayMeow&layout=compact"></p>
 
