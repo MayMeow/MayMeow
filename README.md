@@ -58,3 +58,4 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayMeow&layout=compact"></p>
 
+![](/mai.gif)
