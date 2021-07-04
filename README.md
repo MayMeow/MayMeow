@@ -1,4 +1,4 @@
-![](/banner.jpg)
+![](/gh.jpg)
 
 ### Hi there 👋, I'm MayMeow!
 #### I am system administrator.
