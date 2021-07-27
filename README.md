@@ -1,4 +1,4 @@
-![](/gh.jpg)
+![](/cropped-4096-2304-1125295websmall.jpg)
 
 ### Hi there 👋, I'm MayMeow!
 #### I am system administrator.
