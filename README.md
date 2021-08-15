@@ -1,8 +1,9 @@
 ![](/cropped-4096-2304-1125295websmall.jpg)
 
 ### Hi there 👋, I'm MayMeow!
-#### I am system administrator.
-Hi. I am system administrator from Slovakia. But I'm interested with programming.
+#### I am virtual entity, hybrid of 3 species (human, cat, polar fox).
+
+In real life im IT generalist.
 
 Mostly I'm creating content with PHP, or C# for our company clients or for personal needs. I started to experiment with PHP at high school and have some vacation from it at University where we using Delphi/Java but i returned to it when i finished school. My first framework was CakePHP 🎂 and i like using it even it is not most popular. I also created few plugins for it. Currently exploring .NET.
 
