@@ -40,7 +40,7 @@ Mostly I'm creating content with PHP, or C# for our company clients or for perso
 and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset Remote Administration)
 
 * 🔭 I’m currently working on [Cake-notify](https://github.com/MayMeow/cake-notify) and few more projects.
-* 🌱 I’m currently learning Kubernettes 
+* 🌱 I’m currently learning CEH 
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with ...
 * 💬 Ask me about CakePHP, Windows Servers
