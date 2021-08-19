@@ -44,7 +44,7 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with ...
 * 💬 Ask me about CakePHP, Windows Servers
-* 📫 How to reach me: may@meowmay.com
+* 📫 How to reach me: may@maymeow.moe or maymeow@protonmail.com
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 
 
