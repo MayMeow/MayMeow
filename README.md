@@ -1,4 +1,4 @@
-![](/cropped-4096-2304-1125295websmall.jpg)
+![](/p1.jpg)
 
 ### Hi there 👋, I'm MayMeow!
 #### I am virtual entity, hybrid of 3 species (human, cat, polar fox).
