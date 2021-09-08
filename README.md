@@ -58,5 +58,3 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 <p><img src="https://github-readme-stats-maymeow.vercel.app/api?show_bg=1&username=maymeow"></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayMeow&layout=compact"></p>
-
-![](/mmxs.png)
