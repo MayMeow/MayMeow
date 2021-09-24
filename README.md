@@ -1,6 +1,6 @@
 ![](/04-Karyl-smiles540p.jpg)
 
-### Hi there 👋, I'm Shiraishi Fuyuki but you also can know me as MayMeow!
+### Hi there 👋, I'm Amaya but you also can know me as MayMeow!
 #### I am nekomimi (cat eared) it generalist.
 
 Mostly I'm creating content with PHP, or C# for our company clients or for personal needs. I started to experiment with PHP at high school and have some vacation from it at University where we using Delphi/Java but i returned to it when i finished school. My first framework was CakePHP 🎂 and i like using it even it is not most popular. I also created few plugins for it. Currently exploring .NET.
