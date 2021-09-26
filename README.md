@@ -1,4 +1,4 @@
-![](/04-Karyl-smiles540p.jpg)
+![](/IMG_0739_1280p.PNG)
 
 ### Hi there 👋, I'm Amaya but you also can know me as MayMeow!
 #### I am nekomimi (cat eared) it generalist.
