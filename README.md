@@ -1,4 +1,4 @@
-![](/IMG_0739_1280p.PNG)
+![](/mm.gif)
 
 ### Hi there 👋, I'm May!
 #### I am nekomimi (cat eared) it generalist.
