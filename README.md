@@ -38,17 +38,19 @@ Mostly I'm creating content with PHP, or C# for our company clients or for perso
 and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset Remote Administration)
 
 * 🔭 I’m currently working on [Cake-notify](https://github.com/MayMeow/cake-notify) and few more projects.
-* 🌱 I’m currently learning CEH 
+* 🌱 I’m currently learning for Certified Ethical Hacker certification.
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with ...
 * 💬 Ask me about CakePHP, Windows Servers
 * 📫 How to reach me: tiny.dusk4239@maymeow.dev
 * 😄 Pronouns: She/Her
-* ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 
+* ⚡ Fun fact: Speaks English, Slovak, Czech, Littel bit Polish, Korean & Japanese
+* 🏠 Hogwarts House: Gryffindor
+* 🙏 Support me at [<img src='https://img.shields.io/badge/-BuyMeACoffee-ffdd00?style=flat-square&logo=BuyMeACoffee&logoColor=black' alt='buy-me-a-coffee'>](https://www.buymeacoffee.com/maymeow)
+* 💬 Favourite Quotes:
+> "Life is not measured by the number of breaths we take, but by the moments that take our breath away." - Vicki Corona
 
 ### Where you can find me:
-
-![](/karyl-kyarusmall.gif)
 
 [<img src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white' alt='github'>](https://github.com/MayMeow)
 [<img src='https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white' alt='dev'>](https://dev.to/maymeow)
