@@ -1,9 +1,9 @@
 ![](/mm.gif)
 
 ### こんにちは 👋, I'm May!
-#### I am nekomimi (cat eared) it generalist.
+#### I am IT generalist and hobyist developer.
 
-Mostly I'm creating content with PHP, or C# for our company clients or for personal needs. I started to experiment with PHP at high school and have some vacation from it at University where we using Delphi/Java but i returned to it when i finished school. My first framework was CakePHP 🎂 and i like using it even it is not most popular. I also created few plugins for it. Currently exploring .NET.
+Don't knoww if "it generalist" is right naming for what I'm doing 😊. At my work I'am at technical support position (you know: help someone to login to his account etc.), but my workload also contains configuring network devices, maintain some server, and keep them all secure and at working state, so people can do their work without any problems. At home I am hobyist developer - i like put tugether thses small pieces of code and watch how they working or configuring linux server testing some opensource apps. When I am currently not working i probably playing some games or wathing movies.
 
 ### Things I use:
 
