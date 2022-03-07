@@ -44,9 +44,9 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 💬 Ask me about CakePHP, Windows Servers
 * 📫 How to reach me: jieun@mitsuha.dev
 * 😄 Pronouns: She/Her
-* ⚡ Fun fact: Speaks English, Slovak, Czech, Littel bit Polish, Korean & Japanese
+* ⚡ Fun fact: Speaks English, Slovak, Czech, little bit Polish, Korean & Japanese
 * 🏠 Hogwarts House: Gryffindor
-* 🙏 Support me at [<img src='https://img.shields.io/badge/-BuyMeACoffee-ffdd00?style=flat-square&logo=BuyMeACoffee&logoColor=black' alt='buy-me-a-coffee'>](https://www.buymeacoffee.com/maymeow)
+* 🙏 Support me at https://github.com/sponsors/MayMeow
 * 💬 Favourite Quotes:
 > "Life is not measured by the number of breaths we take, but by the moments that take our breath away." - Vicki Corona
 
