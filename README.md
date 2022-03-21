@@ -49,15 +49,3 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 🙏 Support me at https://github.com/sponsors/MayMeow
 * 💬 Favourite Quotes:
 > "Life is not measured by the number of breaths we take, but by the moments that take our breath away." - Vicki Corona
-
-### Where you can find me:
-
-[<img src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white' alt='github'>](https://github.com/MayMeow)
-[<img src='https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white' alt='dev'>](https://dev.to/maymeow)
-[<img src='https://img.shields.io/badge/-hugo-FF4088?style=flat-square&logo=hugo&logoColor=white' alt='website'>](https://themaymeow.com)  
-
-### My stats
-
-<p><img src="https://github-readme-stats-maymeow.vercel.app/api?show_bg=1&username=maymeow"></p>
-
-
