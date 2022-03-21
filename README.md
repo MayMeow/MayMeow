@@ -42,7 +42,7 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with ...
 * 💬 Ask me about CakePHP, Windows Servers
-* 📫 How to reach me: jieun@mitsuha.dev
+* 📫 How to reach me: https://t.me/TheMayMeow
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: Speaks English, Slovak, Czech, little bit Polish, Korean & Japanese
 * 🏠 Hogwarts House: Gryffindor
