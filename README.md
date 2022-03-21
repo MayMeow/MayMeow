@@ -47,5 +47,3 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * ⚡ Fun fact: Speaks English, Slovak, Czech, little bit Polish, Korean & Japanese
 * 🏠 Hogwarts House: Gryffindor
 * 🙏 Support me at https://github.com/sponsors/MayMeow
-* 💬 Favourite Quotes:
-> "Life is not measured by the number of breaths we take, but by the moments that take our breath away." - Vicki Corona
