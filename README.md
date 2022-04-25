@@ -1,4 +1,4 @@
-![](/mm.gif)
+![](/h.png)
 
 ### こんにちは 👋, I'm May!
 #### I am IT generalist and hobyist developer.
