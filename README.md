@@ -1,9 +1,11 @@
 ![](/h.png)
 
 ### こんにちは 👋, I'm May!
-#### I am IT generalist and hobyist developer.
+#### I am a system administrator from Slovakia with an interest in cyber-security and programming.
 
-Don't knoww if "it generalist" is right naming for what I'm doing 😊. At day 🌞 I'am at technical support position (you know: help someone to login to his account etc.), but my workload also contains configuring network devices, maintain some server, and keep them all secure and at working state, so people can do their work without any problems. At night 🌙 I am hobyist developer - I like to put tugether these small pieces of code and watch how they working or configuring linux server testing some opensource apps. When I am currently not working I probably playing some games or watching movies or listening music.
+As a system administrator in a small company, my full-time job is configuring servers and network components, and last time more and more cyber-security. I am also doing some programming, but most of my programming I do as my hobby ❤️ within my spare time (those projects are open-sourced on my profile).
+
+At most, my programming contains PHP and C# but I can code some simple things in other languages like Java, GO, and C/C++, on university we mostly use Java. I deploy my projects mostly with Docker on my Linux server which I manage on my own.
 
 ### Things I use:
 
@@ -46,4 +48,4 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: Speaks English, Slovak, Czech, little bit Polish, Korean & Japanese
 * 🏠 Hogwarts House: Gryffindor
-* 🙏 Support me at https://github.com/sponsors/MayMeow
+* 🙏 If you are using one of my repositories in your project and like it consider supporting me at https://github.com/sponsors/MayMeow or https://www.buymeacoffee.com/maymeow
