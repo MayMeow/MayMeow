@@ -1,7 +1,7 @@
 ![](/h.png)
 
 ### こんにちは 👋, I'm May!
-#### I am a system administrator from Slovakia with an interest in cyber-security and programming.
+#### I am a system administrator with an interest in cyber-security and programming.
 
 As a system administrator in a small company, my full-time job is configuring servers and network components, and last time more and more cyber-security. I am also doing some programming, but most of my programming I do as my hobby ❤️ within my spare time (those projects are open-sourced on my profile).
 
