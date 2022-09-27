@@ -54,3 +54,5 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * ⚡ Fun fact: Speaks English, Slovak, Czech, little bit Polish, Korean & Japanese
 * 🏠 Hogwarts House: Gryffindor
 * 🙏 If you are using one of my repositories in your project and like it consider supporting me at https://github.com/sponsors/MayMeow or https://www.buymeacoffee.com/maymeow
+
+[![@maymeow's Holopin board](https://holopin.io/api/user/board?user=maymeow)](https://holopin.io/@maymeow)
