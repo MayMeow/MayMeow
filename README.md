@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.maymeow.dev/images/may.webp">
+<img src="https://cdn.maymeow.com/rin2.png">
 </p>
 
 ### こんにちは 👋, I'm May!
@@ -11,6 +11,8 @@ At most, my programming contains PHP and C# but I can code some simple things in
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+![](https://cdn.maymeow.com/rin1.png)
 
 ### Things I use:
 
@@ -55,5 +57,7 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 🏠 Hogwarts House: Gryffindor
 * 🙏 If you are using one of my repositories in your project and like it consider supporting me at https://github.com/sponsors/MayMeow or https://www.buymeacoffee.com/maymeow
 * 🎨 Profile pic: Siesta
+
+![rin](https://cdn.maymeow.com/rin.webp)
 
 [![@maymeow's Holopin board](https://holopin.io/api/user/board?user=maymeow)](https://holopin.io/@maymeow)
