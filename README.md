@@ -3,11 +3,9 @@
 </p>
 
 ### 안녕하세요! 👋, I'm May.
-#### I am a system administrator with an interest in cyber-security and programming.
+#### Hi, I'm May. I'm in a technical support position and I'm interested in cybersecurity and programming.
 
-As a system administrator in a small company, my full-time job is configuring servers and network components, and last time more and more cyber-security. I am also doing some programming, but most of my programming I do as my hobby ❤️ within my spare time (those projects are open-sourced on my profile).
-
-At most, my programming contains PHP and C# but I can code some simple things in other languages like Java, GO, and C/C++, on university we mostly use Java. I deploy my projects mostly with Docker on my Linux server which I manage on my own.
+I spend most of my free time coding. I'm a big fan of technology, audiobooks, I tend to overthink things and I'm forgetful (thank goodness for ToDo apps)
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
