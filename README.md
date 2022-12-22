@@ -5,7 +5,7 @@
 ### 안녕하세요! 👋, I'm May.
 #### Hi, I'm May. I'm in a technical support position and I'm interested in cybersecurity and programming.
 
-I spend most of my free time coding. I'm a big fan of technology, audiobooks, I tend to overthink things and I'm forgetful (thank goodness for ToDo apps)
+I'm a big fan of technology, and audiobooks, I tend to overthink things too much and I'm forgetful (thank goodness for ToDo apps - what is not there it's not going to happen)
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
