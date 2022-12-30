@@ -51,7 +51,7 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 💬 Ask me about CakePHP, Windows Servers
 * 📫 How to reach me: https://t.me/TheMayMeow
 * 🏠 Hogwarts House: Gryffindor
-* 🙏 If you are using one of my repositories in your project and like it consider supporting me at https://github.com/sponsors/MayMeow or https://www.buymeacoffee.com/maymeow
+* 🙏 If you are using one of my repositories in your project and like it consider supporting me at [GitHub Sponsors](https://github.com/sponsors/MayMeow) or [Ko-fi](https://ko-fi.com/maymeow)
 * 🎨 Profile pic: Siesta
 
 ![rin](https://cdn.maymeow.com/rin.webp)
