@@ -45,14 +45,14 @@ I'm a big fan of technology, and audiobooks, I tend to overthink things too much
 and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset Remote Administration)
 
 * 🔭 I’m currently working on: Check my profile for pinned repositories
-* 🌱 I’m currently learning for Certified Ethical Hacker certification.
+* 🌱 I’m currently learning CyberSecurity.
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with ...
-* 💬 Ask me about CakePHP, Windows Servers
+* 💬 Ask me about: PHP, Windows Servers...
 * 📫 How to reach me: https://t.me/TheMayMeow
 * 🏠 Hogwarts House: Gryffindor
 * 🙏 If you are using one of my repositories in your project and like it consider supporting me at [GitHub Sponsors](https://github.com/sponsors/MayMeow) or [Ko-fi](https://ko-fi.com/maymeow)
-* 🎨 Profile pic: Siesta
+* 🎨 Profile pic: MayMeow (My FFXIV Avatar)
 
 ![rin](https://cdn.maymeow.com/rin.webp)
 
