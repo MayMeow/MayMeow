@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.maymeow.com/rin2.png">
+<img src="https://media.maymeow.com/rin2.png">
 </p>
 
 ### 안녕하세요! 👋, I'm May.
@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
 
-![](https://cdn.maymeow.com/rin1.png)
+![](https://media.maymeow.com/rin1.png)
 
 ### Things I use:
 
@@ -52,6 +52,6 @@ and more (.NET Core / C# / Office 365 / ZyXEL USGs / MS Active Directory / Eset 
 * 🙏 If you are using one of my repositories in your project and like it consider supporting me at [GitHub Sponsors](https://github.com/sponsors/MayMeow) or [Ko-fi](https://ko-fi.com/maymeow)
 * 🎨 Profile pic: MayMeow (My FFXIV Avatar)
 
-![rin](https://cdn.maymeow.com/rin.webp)
+![rin](https://media.maymeow.com/rin.webp)
 
 [![@maymeow's Holopin board](https://holopin.io/api/user/board?user=maymeow)](https://holopin.io/@maymeow)
