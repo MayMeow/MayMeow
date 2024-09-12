@@ -9,7 +9,9 @@
 
 ### Things I use:
 
-See on [Stackshare](https://stackshare.io/maymeow/my-stack#stack)
+PHP, CakePHP, Laravel, Javascript ...
+
+See more on [Stackshare](https://stackshare.io/maymeow/my-stack#stack)
 
 * 🔭 I’m currently working on: Check my profile for pinned repositories
 * 🌱 I’m currently learning CyberSecurity.
