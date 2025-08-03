@@ -1,6 +1,6 @@
 
 
-### 안녕하세요! 👋, I'm MayMeow.
+### Hello there 👋, I'm MayMeow!
 #### Sysadmin by Day, Scripter by Night
 #### 🌌🐾 | Prowling the digital constellations, leaving enchanted paw prints in the code galaxies. Join the celestial journey! 🚀🌠 #CodeProwler #StellarFeline
 
