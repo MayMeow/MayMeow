@@ -1,8 +1,30 @@
-
-
 ### Hello there 👋, I'm MayMeow!
 #### Sysadmin by Day, Scripter by Night
 #### 🌌🐾 | Prowling the digital constellations, leaving enchanted paw prints in the code galaxies. Join the celestial journey! 🚀🌠 #CodeProwler #StellarFeline
+
+```text
+             *     ,MMM8&&&.            *
+                  MMMM88&&&&&    .
+                 MMMM88&&&&&&&
+     *           MMM88&&&&&&&&
+                 MMM88&&&&&&&&
+                 'MMM88&&&&&&'
+                   'MMM8&&&'      *
+          |\___/|
+          )     (             .              '
+         =\     /=
+           )===(       *
+          /     \
+          |     |
+         /       \
+         \       /
+  _/\_/\_/\__  _/_/\_/\_/\_/\_/\_/\_/\_/\_/\_
+  |  |  |  |( (  |  |  |  |  |  |  |  |  |  |
+  |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |
+  |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  jgs|  |  |  |  |  |  |  |  |  |  |  |  |  | 
+```
 
 ### Things I use:
 
