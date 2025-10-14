@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm MayMeow!
-#### Sysadmin by Day, Scripter by Night
+#### Scripter by Day & Night | AI Digital Creator
 #### 🌌🐾 | Prowling the digital constellations, leaving enchanted paw prints in the code galaxies. Join the celestial journey! 🚀🌠 #CodeProwler #StellarFeline
 
 ```bash
