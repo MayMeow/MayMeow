@@ -26,6 +26,8 @@
   jgs|  |  |  |  |  |  |  |  |  |  |  |  |  | 
 ```
 
+<img src="https://media.maymeow.com/bg-remover-1761733081514(1).png" align="right" style="float:right; width:280px; margin-left:20px;" >
+
 ### Things I use:
 
 PHP, CakePHP, Laravel, Javascript ...
