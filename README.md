@@ -1,4 +1,3 @@
-![](https://media.maymeow.com/MayMeow-readme-banner.png)
 ### Hello there 👋, I'm MayMeow!
 #### Scripter by Day & Night | AI Digital Creator
 #### 🌌🐾 | Prowling the digital constellations, leaving enchanted paw prints in the code galaxies. Join the celestial journey! 🚀🌠 #CodeProwler #StellarFeline
