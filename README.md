@@ -26,13 +26,15 @@
   jgs|  |  |  |  |  |  |  |  |  |  |  |  |  | 
 ```
 
-<img src="https://media.maymeow.com/bg-remover-1761733081514(1).png" align="right" style="float:right; width:280px; margin-left:20px;" >
-
 ### Things I use:
 
-PHP, CakePHP, Laravel, Javascript ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,azure,bootstrap,cs,cloudflare,codepen,css,discord,docker,dotnet,git,github,gmail,go,graphql,html,js,laravel,npm,notion,nodejs,php,postgres,redis,regex,sass,windows,yarn" />
+  </a>
+</p>
 
-See more on [Stackshare](https://stackshare.io/maymeow/my-stack#stack)
+<img src="https://media.maymeow.com/bg-remover-1761733081514(1).png" align="right" style="float:right; width:280px; margin-left:20px;" >
 
 * 🔭 I’m currently working on: Check my profile for pinned repositories
 * 🌱 I’m currently learning CyberSecurity.
