@@ -44,4 +44,6 @@
 * 📫 How to reach me: Check Profile 👈
 * 🏠 Hogwarts House: Gryffindor
 
+[![MayMeows's GitHub stats](https://github-readme-stats.vercel.app/api?username=maymeow&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
