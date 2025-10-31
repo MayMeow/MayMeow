@@ -43,3 +43,5 @@
 * 💬 Ask me about: PHP, Windows Servers...
 * 📫 How to reach me: Check Profile 👈
 * 🏠 Hogwarts House: Gryffindor
+
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
