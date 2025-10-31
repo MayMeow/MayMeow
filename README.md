@@ -36,12 +36,12 @@
 
 <img src="https://media.maymeow.com/bg-remover-1761733081514(1).png" align="right" style="float:right; width:280px; margin-left:20px;" >
 
-* 🔭 I’m currently working on: Check my profile for pinned repositories
+* 🔭 I’m currently working on: Feel free to check my [repositories](https://github.com/MayMeow?tab=repositories)
 * 🌱 I’m currently learning CyberSecurity.
 * 👯 I’m looking to collaborate on Small open-source project for start 
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about: PHP, Windows Servers...
-* 📫 How to reach me: Check Profile 👈
+* 🤔 I’m looking for help with: If you find some of my projects useable consider contributing.
+* 💬 Ask me about: PHP, Html, Css, MS365
+* 📫 How to reach me: [Mastodon](https://social.lol/@may), [Telegram](https://t.me/MayMeow_w)
 * 🏠 Hogwarts House: Gryffindor
 
 [![MayMeows's GitHub stats](https://github-readme-stats.vercel.app/api?username=maymeow&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
