@@ -34,8 +34,6 @@
   </a>
 </p>
 
-<img src="https://media.maymeow.com/bg-remover-1761733081514(1).png" align="right" style="float:right; width:280px; margin-left:20px;" >
-
 * 🔭 I’m currently working on: Feel free to check my [repositories](https://github.com/MayMeow?tab=repositories)
 * 🌱 I’m currently learning CyberSecurity.
 * 👯 I’m looking to collaborate on Small open-source project for start 
@@ -43,5 +41,3 @@
 * 💬 Ask me about: PHP, Html, Css, MS365
 * 📫 How to reach me: [Mastodon](https://social.lol/@may), [Telegram](https://t.me/MayMeow_w)
 * 🏠 Hogwarts House: Gryffindor
-
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
