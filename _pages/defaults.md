@@ -10,8 +10,8 @@ My `defaults`  list ispired by https://defaults.rknight.me/.
 
 ## Daily use
 
-- 📨 **Mail Client:** Mail.app, Protonmail (iOS, Android), Thinderbird
-- 📮 **Mail Server:** Proton, iCloud
+- 📨 **Mail Client:** Mail.app, Thinderbird
+- 📮 **Mail Server:** iCloud
 - 📝 **Notes:** Notes.app
 - ✅ **To-Do:** Reminders.app
 - 📷 **iPhone Photo Shooting:** Camera.app
