@@ -34,7 +34,7 @@
   </a>
 </p>
 
-* 🔭 I’m currently working on: Feel free to check my [repositories](https://github.com/MayMeow?tab=repositories)
+* 🔭 I’m currently working on: Feel free to check my repositories [here](https://github.com/MayMeow?tab=repositories), also on [GitLab](https://gitlab.com/MayMeow), or [Codeberg](https://codeberg.org/MayMeow)
 * 🌱 I’m currently learning CyberSecurity.
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with: If you find some of my projects useable consider contributing.
