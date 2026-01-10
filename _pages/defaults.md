@@ -11,17 +11,17 @@ My `defaults`  list ispired by https://defaults.rknight.me/.
 ## Daily use
 
 - 📨 **Mail Client:** Mail.app, Thinderbird
-- 📮 **Mail Server:** iCloud
+- 📮 **Mail Server:** iCloud, Mailbox, Proton
 - 📝 **Notes:** Notes.app
 - ✅ **To-Do:** Reminders.app
 - 📷 **iPhone Photo Shooting:** Camera.app
 - 🟦 **Photo Management & Editing:** Photos.app
 - 📆 **Calendar:** Calendar.app
-- 📁 **Cloud File Storage:** iCloud
+- 📁 **Cloud File Storage:** iCloud, Proton
 - 📖 **RSS:** Innoreader
 - 🙍🏻‍♂️ **Contacts:** Contacts.app
 - 🌐 **Browser:** Safari, Chrome
-- 💬 **Chat:** Messages.app, Whatsapp, Signal, Viber, Google Chat
+- 💬 **Chat:** Whatsapp, Signal, Viber, Google Chat (notifications)
 - 🔖 **Bookmarks:** Raindrop.io
 - 📑 **Read It Later:** Raindrop.io
 - 🍴 **Meal Planning:** n/a
