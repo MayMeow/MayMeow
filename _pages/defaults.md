@@ -17,7 +17,7 @@ My `defaults`  list ispired by https://defaults.rknight.me/.
 - 📷 **iPhone Photo Shooting:** Camera.app, Leica LUX
 - 🟦 **Photo Management & Editing:** Photos.app
 - 📆 **Calendar:** Calendar.app
-- 📁 **Cloud File Storage:** iCloud, Proton
+- 📁 **Cloud File Storage:** iCloud, OneDrive, Proton
 - 📖 **RSS:** Innoreader
 - 🙍🏻‍♂️ **Contacts:** Contacts.app
 - 🌐 **Browser:** Safari, Chrome
@@ -39,10 +39,10 @@ My `defaults`  list ispired by https://defaults.rknight.me/.
 - 🛒 **Shopping Lists:** Google Keep
 - 🛡️ **MFA:** 2FAS, Yubico authenticator
 - 📝 **Journaling:** Journal.app
-- 🔑 **VPN:** ProtonVPN, Tailscale (with Mulvad)
+- 🔑 **VPN:** ProtonVPN, Tailscale, Mulvad
 
 ## Coding
 
-- 🤖 **Code editing:** VS Code, GitHub Copilot + Claude Code + Codex
-- 👨‍💻 **Git:** Github, Forgejo
+- 🤖 **Code editing:** VS Code, GitHub Copilot
+- 👨‍💻 **Git:** Github, Forgejo (selfhosted)
 - 👨‍💻 **Shell:** Zsh, Powershell
