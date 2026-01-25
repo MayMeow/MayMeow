@@ -1,6 +1,5 @@
 ### Hello there 👋, I'm MayMeow!
-#### Scripter by Day & Night | AI Digital Creator
-#### 🌌🐾 | Prowling the digital constellations, leaving enchanted paw prints in the code galaxies. Join the celestial journey! 🚀🌠 #CodeProwler #StellarFeline
+#### Catgirl | Hobbyist coder
 
 ```bash
              *     ,MMM8&&&.            *
@@ -38,6 +37,6 @@
 * 🌱 I’m currently learning CyberSecurity.
 * 👯 I’m looking to collaborate on Small open-source project for start 
 * 🤔 I’m looking for help with: If you find some of my projects useable consider contributing.
-* 💬 Ask me about: PHP, Html, Css, MS365
-* 📫 How to reach me: [Mastodon](https://social.lol/@may), [Telegram](https://t.me/MayMeow_w)
-* 🏠 Hogwarts House: Gryffindor
+* 💬 Ask me about: PHP, Html, Css, MS365, Linux
+* 📫 How to reach me: [Mastodon](https://social.lol/@may), [Letterbird](https://letterbird.co/may)
+* 🐦‍⬛ Hogwarts House: Ravenclaw, however I like Gryffindor
