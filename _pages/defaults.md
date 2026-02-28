@@ -4,7 +4,7 @@ date: 2024-03-10T10:43:41+01:00
 draft: false
 ---
 
-`v2025.1.0`
+`v2025.1.1`
 
 My `defaults`  list ispired by https://defaults.rknight.me/.
 
@@ -18,10 +18,10 @@ My `defaults`  list ispired by https://defaults.rknight.me/.
 - 🟦 **Photo Management & Editing:** Photos.app
 - 📆 **Calendar:** Calendar.app
 - 📁 **Cloud File Storage:** iCloud, OneDrive, Proton
-- 📖 **RSS:** Innoreader
-- 🙍🏻‍♂️ **Contacts:** Contacts.app
+- 📖 **RSS:** Miniflux (not using it much, but have it)
+- 🙍🏻‍♂️ **Contacts:** Contacts.app with Baikal
 - 🌐 **Browser:** Brave (PC), Safari
-- 💬 **Chat:** Whatsapp, Signal, Viber, kChat (notifications)
+- 💬 **Chat:** Whatsapp, Signal, Viber, kChat (notifications), SMS
 - 🔖 **Bookmarks:** Raindrop.io
 - 📑 **Read It Later:** Raindrop.io
 - 📰 **News:** Innoreader, Mastodon
