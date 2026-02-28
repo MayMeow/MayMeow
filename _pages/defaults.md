@@ -4,14 +4,14 @@ date: 2024-03-10T10:43:41+01:00
 draft: false
 ---
 
-`v2025.0.0`
+`v2025.1.0`
 
 My `defaults`  list ispired by https://defaults.rknight.me/.
 
 ## Daily use
 
 - 📨 **Mail Client:** Mail.app (on phone), Thinderbird
-- 📮 **Mail Server:** Mailbox
+- 📮 **Mail Server:** Proton
 - 📝 **Notes:** Notes.app
 - ✅ **To-Do:** Reminders.app
 - 📷 **iPhone Photo Shooting:** Camera.app, Leica LUX
@@ -20,14 +20,14 @@ My `defaults`  list ispired by https://defaults.rknight.me/.
 - 📁 **Cloud File Storage:** iCloud, OneDrive, Proton
 - 📖 **RSS:** Innoreader
 - 🙍🏻‍♂️ **Contacts:** Contacts.app
-- 🌐 **Browser:** Safari, Chrome
-- 💬 **Chat:** Whatsapp, Signal, Viber, Google Chat (notifications)
+- 🌐 **Browser:** Brave (PC), Safari
+- 💬 **Chat:** Whatsapp, Signal, Viber, kChat (notifications)
 - 🔖 **Bookmarks:** Raindrop.io
 - 📑 **Read It Later:** Raindrop.io
 - 📰 **News:** Innoreader, Mastodon
 - 🎵 **Music:** Spotify
-- 🎤 **Podcasts:** Podcasts.app
-- 🔐 **Password Management:** Passwords.app, 1Password
+- 🎤 **Podcasts:** Spotify
+- 🔐 **Password Management:** 1Password
 - 📚 **Reading:** Books.app
 - 🎧 **Audiobooks:** Audible
 
